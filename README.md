@@ -21,4 +21,4 @@ Please don't.
 
 ## Contributors
 
-    [[WJWH]](https://github.com/WJWH) Wander Hillen - creator, "maintainer"
+[[WJWH]](https://github.com/WJWH) Wander Hillen - creator, "maintainer"
